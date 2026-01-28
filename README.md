@@ -47,12 +47,16 @@ This system ensures that lights turn ON **only when both conditions are met**:
 ## System Architecture
 
 1. Camera captures live video feed
-2. YOLOv8 model performs real‑time human detection
+2. YOLOv8s model performs real‑time human detection
 3. Detection confidence is evaluated
 4. BH1750 sensor checks ambient light intensity
 5. Decision logic determines ON/OFF state
 6. Arduino controls relay module
 7. Lamp responds instantly
+
+
+## Disclaimer:
+Please note that the pretrained model of Ultralytics Yolo Model used in this project is NOT uploaded in this repo, please make sure to install it in your system before running the program.
 
 ---
 
