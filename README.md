@@ -90,7 +90,7 @@ This repository represents the **hackathon‑specific implementation, integratio
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 AU-Hackathon-2026-TM02-BlueMew/
@@ -110,7 +110,7 @@ AU-Hackathon-2026-TM02-BlueMew/
 
 ---
 
-## 🔄 How It Works (Simplified)
+## How It Works (Simplified)
 
 * Camera continuously monitors the environment
 * YOLOv8 detects humans in the frame
@@ -119,7 +119,7 @@ AU-Hackathon-2026-TM02-BlueMew/
 
 ---
 
-## 🌱 Impact & Use Cases
+## Impact & Use Cases
 
 ### Impact
 
@@ -138,7 +138,7 @@ AU-Hackathon-2026-TM02-BlueMew/
 
 ---
 
-## 🔮 Future Scope
+## Future Scope
 
 * Multi‑camera support
 * Edge‑AI deployment (Jetson / Raspberry Pi)
@@ -148,7 +148,7 @@ AU-Hackathon-2026-TM02-BlueMew/
 
 ---
 
-## 🧪 Demo Status
+## Demo Status
 
 ✅ Fully functional prototype
 ✅ Real‑time detection & hardware response
@@ -156,7 +156,7 @@ AU-Hackathon-2026-TM02-BlueMew/
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 
 The **AI-Driven Vision-Based Intelligent Lighting System** demonstrates how **computer vision can move beyond screens** and create tangible real‑world impact. By combining AI with low‑cost hardware, this project showcases a scalable, sustainable, and intelligent approach to energy management.
 
@@ -164,7 +164,7 @@ The **AI-Driven Vision-Based Intelligent Lighting System** demonstrates how **co
 
 ---
 
-## 👤 Author
+## Author
 
 **Souvik Pal**
 AI Impact Summit 2026 Hackathon Participant
