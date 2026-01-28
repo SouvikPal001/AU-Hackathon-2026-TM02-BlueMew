@@ -75,6 +75,12 @@ This system ensures that lights turn ON **only when both conditions are met**:
 
 ---
 
+## Circuit Diagram
+
+<img width="1537" height="689" alt="Screenshot 2026-01-05 145329" src="https://github.com/user-attachments/assets/29fa2a91-7388-4965-aaad-8a8c46d80849" />
+
+---
+
 ## Hackathon Implementation Scope
 
 This repository represents the **hackathon‑specific implementation, integration, and optimization** of the system.
@@ -171,6 +177,6 @@ AI Impact Summit 2026 Hackathon Participant
 
 ---
 
-## 📜 License
+## License
 
 This project is intended for educational, research, and hackathon demonstration purposes.
